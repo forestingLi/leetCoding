@@ -14,4 +14,5 @@ if __name__ == '__main__':
     #     print(i)
     #     print("\n")
     # print(char_list[0:string_lenth])
-
+    result = Solution.twoSum(Solution, [3,3],6)
+    print(result)
