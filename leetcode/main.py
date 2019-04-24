@@ -14,8 +14,4 @@ if __name__ == '__main__':
     #     print(i)
     #     print("\n")
     # print(char_list[0:string_lenth])
-    str = Solution.longestPalindrome(Solution,"")
-    if str :
-        print (str)
-    else:
-        print("string is None")
+
