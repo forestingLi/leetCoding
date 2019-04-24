@@ -14,6 +14,7 @@ if __name__ == '__main__':
     #     print(i)
     #     print("\n")
     # print(char_list[0:string_lenth])
+    ''' https://leetcode.com/problems/longest-palindromic-substring/'''
     str = Solution.longestPalindrome(Solution,"")
     if str :
         print (str)
