@@ -1,6 +1,7 @@
-from leetcode.solutions import *
 
 if __name__ == '__main__':
+    str_list = ["" for x in range(3)]
+    print(str_list)
     # test_string = "aba"
     # test_list = ['a','b','c']
     # test_string = ''.join(test_list)
